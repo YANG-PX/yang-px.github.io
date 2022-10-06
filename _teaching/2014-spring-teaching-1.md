@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "Misc"
+
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Gallery
 ======
+![毕业快乐]([https://yang-px.github.io/images/biye.jpg])
+![复杂理论会议]([https://yang-px.github.io/images/fuzalilun.jpg])
+![长沙会议]([https://yang-px.github.io/images/changsha.jpg])
+![高铁项目]([https://yang-px.github.io/images/project.jpg])
+![工业人工智能]([https://yang-px.github.io/images/chai.jpg])
+![戴琼海]([https://yang-px.github.io/images/dai.jpg])
+![上海]([https://yang-px.github.io/images/chai.jpg])
+![冷餐会]([https://yang-px.github.io/images/dinner.jpg])
+![实验室]([https://yang-px.github.io/images/lab.jpg])
 
-Heading 2
-======
 
-Heading 3
-======

@@ -11,49 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Automation of Yanshan University, Qinhuangdao, 2019
+* M.S. in Control Science and Engineering of Northeastern University, Shenyang, 2022(Advisor: *Prof. Dai Xuewu*)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Fall 2022~now: Teaching Assistant
+  * Assist theoretical course：automotive diagnosis and maintenance technology
+  * Practical course: Automotive Electronic Control Laboratory
+  * 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C++, Matlab, Javascript
+* Electrical Technician
 
-Publications
+Award
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Scholarship for five semesters of undergraduate and two years of master
+* Three good students of Yanshan University during 2017-2018
+* Third prize in the 2017 OI China Underwater Robotics Competition
+* Third Prize of the National University Mathematics Competition in Hebei Province
+
+Here is my [cv](https://yang-px.github.io/files/cv.pdf)
