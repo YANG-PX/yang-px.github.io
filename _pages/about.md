@@ -1,5 +1,6 @@
 ---
 permalink: /
+excerpt: "Homepage - Pengxin Yang 杨鹏鑫"
 author_profile: true
 redirect_from: 
   - /about/
