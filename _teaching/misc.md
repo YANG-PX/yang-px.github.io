@@ -1,3 +1,7 @@
+---
+
+collection: teaching
+---
 
 Gallery
 ======
