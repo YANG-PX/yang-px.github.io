@@ -7,10 +7,10 @@ author_profile: true
 
 ## Papers
 
-- **杨鹏鑫**，崔东亮，代学武，岳鹏，刘瑞广.基于运控和调度协同仿真的列车阶段调整计划评估[J/OL].*计算机集成制造系统*,\[2022-05-28\]. [PDF](https://yang-px.github.io/files/cims.pdf)]
+- **杨鹏鑫**，崔东亮，代学武，岳鹏，刘瑞广.基于运控和调度协同仿真的列车阶段调整计划评估[J/OL].*计算机集成制造系统*,\[2022-05-28\]. [[PDF](https://yang-px.github.io/files/cims.pdf)]
 
 - **P. Yang**, D. Cui, X. Dai, Y. Lv, H. Dong, X. Wang, R. Liu. "A Parallel Intelligent
-System for Optimizing High-Speed Railway Rescheduling by Learning", 2021 *IEEE International Conference on Digital Twins and Parallel Intelligence（DTPI）*.[[PDF](https://yang-px.github.io/files/dtpi.pdf)] 
+System for Optimizing High-Speed Railway Rescheduling by Learning", *2021 IEEE International Conference on Digital Twins and Parallel Intelligence（DTPI）*.[[PDF](https://yang-px.github.io/files/dtpi.pdf)] 
 
 - X. Wang, D. Cui, R. Liu, **P. Yang**, P. Yue and X. Dai, "Low-Cost Evaluation Based on Surrogate Model for Multidispatching Sections of High-Speed Railway Scheduling", *2021 China Automation Congress (CAC)*. [[PDF](https://yang-px.github.io/files/cac.pdf)] 
 
