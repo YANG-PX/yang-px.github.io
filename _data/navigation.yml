@@ -9,8 +9,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Misc"
-    url: /teaching/    
+  #- title: "Misc"
+   # url: /teaching/    
     
   #- title: "Portfolio"
    # url: /portfolio/
@@ -20,5 +20,5 @@ main:
     
 
     
-#  - title: "Guide"
- #   url: /markdown/
+  - title: "Misc"
+    url: /markdown/
