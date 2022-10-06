@@ -1,7 +1,3 @@
----
-permalink: /teaching/
-title: "Misc"
----
 
 
 Gallery
