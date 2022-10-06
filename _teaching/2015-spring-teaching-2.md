@@ -14,7 +14,7 @@ Heading 1
 ======
 <img align="middle" style="max-width: 540px; width: 100%" src="https://yang-px.github.io/images/shanghai.png" />
 
-![上海]([https://yang-px.github.io/images/shanghai.png])
+![上海](https://yang-px.github.io/images/shanghai.png)
 
 Heading 2
 ======
