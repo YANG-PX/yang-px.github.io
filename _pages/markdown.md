@@ -6,13 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-
 ## Gallery
-
-<div align=center>
-<img src="https://yang-px.github.io/images/biye.jpg" />
-</div>
-
 
 ![毕业快乐](https://yang-px.github.io/images/biye.jpg)
 
