@@ -1,7 +1,8 @@
 ---
-
-collection: teaching
+permalink: /teaching/
+title: "Misc"
 ---
+
 
 Gallery
 ======
