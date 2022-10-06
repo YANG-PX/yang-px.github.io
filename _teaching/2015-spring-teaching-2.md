@@ -10,12 +10,11 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-![上海]([https://yang-px.github.io/images/shanghai.png])
-
 Heading 1
 ======
+'<div align="middle"><img align="middle" style="max-width: 540px; width: 100%" src="https://yang-px.github.io/images/shanghai.png" /></div>'
 
-
+![上海]([https://yang-px.github.io/images/shanghai.png])
 
 Heading 2
 ======
