@@ -21,3 +21,7 @@ System for Optimizing High-Speed Railway Rescheduling by Learning", 2021 *IEEE I
 ## Patent
 
 - 崔东亮，**杨鹏鑫**，代学武，王星皓，俞胜平，袁志明，闫璐，李宝旭，孙健，田海宁. [一种交互式高速铁路列车运行仿真系统](https://cprs.patentstar.com.cn/Search/Detail?ANE=6BDA9BIA9HFF9EFB9ICC4CCAAGDA9CBC9AIE9GCB8CBA7CDA) 公开号：CN202110885252.7
+
+## MSc Dissertation
+
+- Design and Implementation of Interactive High-speed Railway Mesoscopic Simulation and Experiment System for Intelligent Scheduling. 面向智能调度的交互式高速铁路中观仿真和实验系统设计开发
