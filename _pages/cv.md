@@ -19,7 +19,7 @@ Work experience
 * Fall 2022~now: Teaching Assistant
   * Assist theoretical course：automotive diagnosis and maintenance technology
   * Practical course: Automotive Electronic Control Laboratory
-  * 
+  
 Skills
 ======
 * C++, Matlab, Javascript
