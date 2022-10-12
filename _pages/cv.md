@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Automation of Yanshan University, Qinhuangdao, 2019
-* M.S. in Control Science and Engineering of Northeastern University, Shenyang, 2022(Advisor: *Prof. Dai Xuewu*)
+* M.S. in Control Science and Engineering of Northeastern University, Shenyang, 2022(Advisor: [*Prof. Dai Xuewu*](http://www.ise.neu.edu.cn/2019/0109/c1432a8405/page.htm))
 
 Work experience
 ======
